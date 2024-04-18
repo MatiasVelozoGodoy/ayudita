@@ -7,7 +7,6 @@ public class nombre {
         todo el codigo va aca dentro
         
     }
-    
 }
 
 ayuda de scanner
@@ -26,8 +25,7 @@ public class nombre {
         
         System.out.println(mensaje);
         
-    }
-    
+    }    
 }
 
 
