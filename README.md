@@ -1,3 +1,71 @@
+ayuda de sintaxis
+public class nombre {
+    public static void main(String[] args) {
+        todo el codigo va aca dentro
+    }
+}
+
+ayuda de scanner
+
+import java.util.Scanner;
+public class nombre {
+    public static void main(String[] args) {
+        String mensaje = "";
+        Scanner leer = new Scanner(System.in);
+        mensaje = leer.nextLine();
+        System.out.println(mensaje);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Captura-de-pantalla-2024-04-18-163041.png](https://i.postimg.cc/zGWP0rhq/Captura-de-pantalla-2024-04-18-163041.png)](https://postimg.cc/nXFkhNTW)
 [![Captura-de-pantalla-2024-04-18-163234.png](https://i.postimg.cc/jqFgT5Qs/Captura-de-pantalla-2024-04-18-163234.png)](https://postimg.cc/YjQfftsV)
 [![Captura-de-pantalla-2024-04-18-163325.png](https://i.postimg.cc/0N0X10Z3/Captura-de-pantalla-2024-04-18-163325.png)](https://postimg.cc/Lqh3zfcB)
