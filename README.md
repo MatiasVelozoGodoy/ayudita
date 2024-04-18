@@ -1,20 +1,33 @@
 ayuda de sintaxis
+
 public class nombre {
+
     public static void main(String[] args) {
+    
         todo el codigo va aca dentro
+        
     }
+    
 }
 
 ayuda de scanner
 
 import java.util.Scanner;
+
 public class nombre {
+
     public static void main(String[] args) {
+    
         String mensaje = "";
+        
         Scanner leer = new Scanner(System.in);
+        
         mensaje = leer.nextLine();
+        
         System.out.println(mensaje);
+        
     }
+    
 }
 
 
